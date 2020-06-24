@@ -1,0 +1,193 @@
+name: dfr
+channels:
+- conda-forge
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+- menpo
+- soumith
+- http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch
+- pytorch
+- http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+- http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+dependencies:
+- _libgcc_mutex=0.1=main
+- bokeh=0.13.0=py35_0
+- ca-certificates=2018.10.15=ha4d7672_0
+- cloudpickle=0.7.0=py_0
+- distributed=1.23.2=py35_0
+- libgcc=5.2.0=0
+- mkl_fft=1.0.6=py35_0
+- mkl_random=1.0.1=py35_0
+- tensorboard=1.9.0=py35_0
+- tensorboardx=1.2=py_0
+- tqdm=4.32.2=py_0
+- trimesh=2.38.42=py_0
+- typing=3.6.6=py35_0
+- xorg-libxau=1.0.8=h470a237_6
+- xorg-libxdmcp=1.1.2=h470a237_7
+- alabaster=0.7.10=py35_0
+- astroid=1.5.3=py35_0
+- babel=2.5.0=py35_0
+- blas=1.0=mkl
+- bleach=1.5.0=py35_0
+- certifi=2016.2.28=py35_0
+- cffi=1.10.0=py35_0
+- chardet=3.0.4=py35_0
+- cudatoolkit=8.0=3
+- cycler=0.10.0=py35_0
+- dbus=1.10.20=0
+- decorator=4.1.2=py35_0
+- docutils=0.14=py35_0
+- entrypoints=0.2.3=py35_0
+- expat=2.1.0=0
+- fontconfig=2.12.1=3
+- freetype=2.5.5=2
+- geos=3.5.0=0
+- glib=2.50.2=1
+- gst-plugins-base=1.8.0=0
+- gstreamer=1.8.0=0
+- h5py=2.7.0=np113py35_0
+- hdf5=1.8.17=2
+- html5lib=0.9999999=py35_0
+- icu=54.1=0
+- imagesize=0.7.1=py35_0
+- ipykernel=4.6.1=py35_0
+- ipython=6.1.0=py35_0
+- ipython_genutils=0.2.0=py35_0
+- isort=4.2.15=py35_0
+- jbig=2.1=0
+- jedi=0.10.2=py35_2
+- jinja2=2.9.6=py35_0
+- jpeg=8d=2
+- jsonschema=2.6.0=py35_0
+- jupyter_client=5.1.0=py35_0
+- jupyter_core=4.3.0=py35_0
+- lazy-object-proxy=1.3.1=py35_0
+- libgfortran=3.0.0=1
+- libiconv=1.14=0
+- libpng=1.6.30=1
+- libprotobuf=3.4.0=0
+- libsodium=1.0.10=0
+- libtiff=4.0.6=2
+- libtorch=0.1.12=0
+- libxcb=1.12=1
+- libxml2=2.9.4=0
+- markdown=2.6.9=py35_0
+- markupsafe=1.0=py35_0
+- matplotlib=2.0.2=np113py35_0
+- mistune=0.7.4=py35_0
+- mkl=2017.0.3=0
+- nbconvert=5.2.1=py35_0
+- nbformat=4.4.0=py35_0
+- nccl=1.3.4=cuda8.0_1
+- networkx=1.11=py35_0
+- ninja=1.7.2=0
+- numpy=1.13.1=py35_0
+- numpydoc=0.7.0=py35_0
+- openblas=0.2.14=4
+- openssl=1.0.2l=0
+- pandocfilters=1.4.2=py35_0
+- path.py=10.3.1=py35_0
+- pcre=8.39=1
+- pexpect=4.2.1=py35_0
+- pickleshare=0.7.4=py35_0
+- pillow=3.4.2=py35_0
+- prompt_toolkit=1.0.15=py35_0
+- protobuf=3.4.0=py35_0
+- psutil=5.2.2=py35_0
+- ptyprocess=0.5.2=py35_0
+- pycodestyle=2.3.1=py35_0
+- pycparser=2.18=py35_0
+- pyflakes=1.6.0=py35_0
+- pygments=2.2.0=py35_0
+- pylint=1.7.2=py35_0
+- pyparsing=2.2.0=py35_0
+- pyqt=5.6.0=py35_2
+- python-dateutil=2.6.1=py35_0
+- pytz=2017.2=py35_0
+- pywavelets=0.5.2=np113py35_0
+- pyzmq=16.0.2=py35_0
+- qt=5.6.2=2
+- qtawesome=0.4.4=py35_0
+- qtconsole=4.3.1=py35_0
+- qtpy=1.3.1=py35_0
+- requests=2.14.2=py35_0
+- rope=0.9.4=py35_1
+- scipy=0.19.1=np113py35_0
+- setuptools=36.4.0=py35_1
+- shapely=1.5.16=py35_0
+- simplegeneric=0.8.1=py35_1
+- singledispatch=3.4.0.3=py35_0
+- sip=4.18=py35_0
+- six=1.10.0=py35_0
+- snowballstemmer=1.2.1=py35_0
+- sphinx=1.6.3=py35_0
+- sphinxcontrib=1.0=py35_0
+- sphinxcontrib-websupport=1.0.1=py35_0
+- spyder=3.2.3=py35_0
+- testpath=0.3.1=py35_0
+- tornado=4.5.2=py35_0
+- traitlets=4.3.2=py35_0
+- wcwidth=0.1.7=py35_0
+- werkzeug=0.12.2=py35_0
+- wrapt=1.10.11=py35_0
+- zeromq=4.1.5=0
+- click=6.7=py35h353a69f_0
+- cudnn=7.0.5=cuda8.0_0
+- cytoolz=0.9.0.1=py35h14c3975_1
+- dask=0.19.2=py35_0
+- dask-core=0.19.2=py35_0
+- heapdict=1.0.0=py35_2
+- imageio=2.4.1=py35_0
+- intel-openmp=2018.0.3=0
+- libedit=3.1=heed3624_0
+- libffi=3.2.1=hd88cf55_4
+- libgcc-ng=7.2.0=hdf63c60_3
+- libgfortran-ng=7.2.0=hdf63c60_3
+- libstdcxx-ng=7.2.0=hdf63c60_3
+- locket=0.2.0=py35h170bc82_1
+- msgpack-python=0.5.6=py35h6bb024c_1
+- ncurses=6.0=h9df7e31_2
+- packaging=17.1=py35_0
+- pandas=0.23.4=py35h04863e7_0
+- partd=0.3.8=py35h68187f2_0
+- pip=9.0.1=py35_5
+- python=3.5.4=h0b4c808_22
+- pyyaml=3.13=py35h14c3975_0
+- readline=7.0=ha6073c6_4
+- sortedcontainers=2.0.5=py35_0
+- sqlite=3.22.0=h1bed415_0
+- tblib=1.3.2=py35hf1eb0b4_0
+- tk=8.6.7=hc745277_3
+- toolz=0.9.0=py35_0
+- webencodings=0.5.1=py35_1
+- wheel=0.30.0=py35hd3883cf_1
+- xz=5.2.3=h55aa19d_2
+- yaml=0.1.7=had09818_2
+- zict=0.1.3=py35_0
+- zlib=1.2.11=ha838bed_2
+- pip:
+  - cython==0.29.12
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.1.0
+  - jupyter-core==4.3.0
+  - kiwisolver==1.1.0
+  - mkl-fft==1.0.6
+  - mkl-random==1.0.1
+  - mock==2.0.0
+  - msgpack==0.5.6
+  - neural-renderer-pytorch==1.1.3
+  - pbr==5.1.3
+  - prompt-toolkit==1.0.15
+  - rope-py3k==0.9.4.post1
+  - scikit-image==0.15.0
+  - soft-renderer==1.0.0
+  - tensorflow-gpu==1.13.1
+  - termcolor==1.1.0
+  - torch==1.1.0
+  - torchvision==0.3.0
+  - virtualenv==16.6.0
+prefix: /home/magic/anaconda3/envs/dfr
+

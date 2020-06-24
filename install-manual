@@ -1,0 +1,5 @@
+------------temp path
+
+conda env create -f dfr.yml
+
+python setup.py build_ext --inplace
