@@ -1,6 +1,8 @@
 # Differentiable Function Rendering
 
-This repository contains the code of the paper "DFR: Differentiable Function Rendering for Learning 3D Generation from images". 
+This repository contains the code of the paper in SGP 2020 "DFR: Differentiable Function Rendering for Learning 3D Generation from images". 
+
+Paper url: https://diglib.eg.org/handle/10.1111/cgf14082
 
 ## Installation
 First you have to make sure that you have all dependencies in place.
