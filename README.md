@@ -61,6 +61,3 @@ python test4_gan.py
 
 This script will randomly sample noise vectors and generate 3D shapes from them. The results are saved in `./gan`
 
-## Training a 3D generation model by DFR
-
-The dataset and the code for training will be released soon.
